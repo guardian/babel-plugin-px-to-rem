@@ -1,0 +1,17 @@
+{
+    "name": "babel-plugin-px-to-rem",
+    "version": "0.1.0",
+    "description": "Babel plugin to convert px to rem",
+    "main": "index.js",
+    "author": "nicl",
+    "license": "MIT",
+    "private": false,
+    "devDependencies": {
+        "@babel/core": "^7.4.5",
+        "@babel/helper-plugin-test-runner": "^7.1.0",
+        "jest": "^24.8.0"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
