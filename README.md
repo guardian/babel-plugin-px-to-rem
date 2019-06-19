@@ -1,0 +1,6 @@
+# Babel plugin to convert pixels to rems
+
+Note, this is a very limited plugin that will only rewrite pixel values that are
+declared at compile time within an emotion css tagged template literal call.
+
+On the plus side it is very simple!
